@@ -6,7 +6,7 @@
 
 import cv2
 import os
-os.chdir('C:\\Users\\agadiya\\Desktop\\Deloitte Others\\PythonLearn\\opencv')
+os.chdir('C:\\Users\\agadiya\\Desktop\\PythonLearn\\opencv')
 
 
 # In[103]:
@@ -57,7 +57,7 @@ cv2.destroyAllWindows()
 
 
 import cv2
-os.chdir('C:\\Users\\agadiya\\Desktop\\Deloitte Others\\PythonLearn\\opencv\\Files')
+os.chdir('C:\\Users\\agadiya\\Desktop\\PythonLearn\\opencv\\Files')
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 face_cascade
 
